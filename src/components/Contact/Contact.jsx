@@ -48,7 +48,7 @@ const Contact = () => {
       try {
         debugger;
         const res = await fetch(
-          "https://namanmalhanportfolio-default-rtdb.firebaseio.com/userDataRecords.json",
+          "https://namanmalhan-portfolio-default-rtdb.firebaseio.com/userDataRecords.json",
           {
             method: "POST",
             headers: {
