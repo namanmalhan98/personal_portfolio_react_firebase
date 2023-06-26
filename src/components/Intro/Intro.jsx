@@ -43,8 +43,7 @@ const Intro = () => {
       {/* left name side */}
       <div className="i-left">
         <div className="i-name">
-          {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
+          <span style={{ color: darkMode ? "white" : "" }}>Hey! I Am</span>
           <span>Naman Malhan</span>
           <span>
           I’m a software developer! I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hesitate to contact me.
@@ -91,8 +90,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div"
         >
-          {/* floatinDiv mein change hy dark mode ka */}
-          {/* <FloatinDiv img={thumbup} text1="Best Design" text2="Award" /> */}
+
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
