@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "namanmalhan-portfolio"
-  }
+    "default": "namanmalhan-portfolio",
+    "staging": "namanmalhan-portfolio"
+  },
+  "targets": {},
+  "etags": {}
 }
