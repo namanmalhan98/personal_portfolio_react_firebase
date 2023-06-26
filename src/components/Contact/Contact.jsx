@@ -64,7 +64,7 @@ const Contact = () => {
             email: "",
             message: "",
           });
-          alert("Data stored successfully!");
+          alert("Thank you for your valuable time ❤️. I'll get back to you shortly 💯.");
         } else {
           alert("Failed to store data. Please try again.");
         }
